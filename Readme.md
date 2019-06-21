@@ -7,6 +7,9 @@
 * [Default.aspx](./CS/WebSite/Default.aspx) (VB: [Default.aspx](./VB/WebSite/Default.aspx))
 <!-- default file list end -->
 # How to implement conditional navigation for the ASPxMenu, ASPxNavBar, and ASPxTreeView controls
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e3925)**
+<!-- run online end -->
 
 
 <p>This example demonstrates how to implement conditional navigation with ASPxMenu, ASPxTreeView and ASPxNavBar.</p><p>1) Do not specify the <strong>NavigateURL</strong> property for each <strong>ASPxMenu / ASPxNavBar</strong> item (or a node for <strong>ASPxTreeView</strong>) to prevent default items behavior;<br />
