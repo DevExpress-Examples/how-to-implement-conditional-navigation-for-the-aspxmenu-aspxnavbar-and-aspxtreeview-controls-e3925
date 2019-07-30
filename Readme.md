@@ -8,7 +8,7 @@
 <!-- default file list end -->
 # How to implement conditional navigation for the ASPxMenu, ASPxNavBar, and ASPxTreeView controls
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e3925)**
+**[[Run Online]](https://codecentral.devexpress.com/e3925/)**
 <!-- run online end -->
 
 
